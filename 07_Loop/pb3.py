@@ -6,7 +6,7 @@ while(i<len(Name)):
     i += 1
 
 
-# Name = ["adnan", "sohan", "sohag", "omi"]
+# Name = ["shomik", "sohan", "sohag", "omi"]
 
 # i = 0
 # while i < len(Name):
